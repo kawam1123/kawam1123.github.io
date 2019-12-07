@@ -66,7 +66,7 @@
 ### タイマーデータ可視化ツール [Kuebiko Cubing](http://www.kuebiko-cubing.com/)
 csTimerなどのタイマーアプリからエクスポートしたデータをもとに、グラフを作って可視化できるようにしてくれるサービス。開発者はtussosedan氏 (Alex Friedman)。ある程度まとまった期間のソルブを俯瞰して進捗を確認したいときに使います。
 
-```対応している形式／タイマーアプリ(2019年12月時点): WCA ID, cstimer, Block Keeper, ChaoTimer, Prisma Puzzle Timer, qqtimer, Twisty Timer, ZYX Timer```
+>対応している形式／タイマーアプリ(2019年12月時点): WCA ID, cstimer, Block Keeper, ChaoTimer, Prisma Puzzle Timer, qqtimer, Twisty Timer, ZYX Timer
 
 ## Rouxの勉強に使っているもの
 - [Block Trainer](https://cubegrass.appspot.com/block_trainer/)
