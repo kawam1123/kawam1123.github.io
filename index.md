@@ -20,9 +20,10 @@
 
 # やったこと
 - [WCAデータベースを用いた大会別初参加者の集計](https://github.com/kawam1123/wcadb)
-    - 2019/05ごろにコードを書いて集計。
-- [Full OH PLL guide by u/PianoCube93](https://github.com/kawam1123/one-handed)
-    - OH用のPLLガイドを1枚にまとめたもの。オリジナルはRedditのu/PianoCube93氏の投稿したポスト。
+    - 2019/05ごろにコードを書いて集計したもの。 *大会ごとに初参加者はどれくらいいるんだろう？* と思って集計したものです。日本国内で実施されている大会を対象に、SQLを雑に回しました。
+- [Full OH PLL Guide from PianoCube93](https://kawam1123.github.io/one-handed/Full%20OH%20PLL%20Guide%20from%20PianoCube93.pdf)
+    - 片手競技(OH)を始めたころに大変お世話になったOH PLLの手順集を画像付きで１枚にまとめました。自分自身の確認用。
+    - オリジナルはRedditのu/PianoCube93氏が[投稿したポスト](https://www.reddit.com/r/Cubers/comments/7c2es2/full_oh_pll_guide/)です。元のポストでは、指使いのアニメーションGIF（ゆっくりバージョン／通常バージョン）が閲覧できます。OHのPLLはどうやって回すとよいのかを考える最初の一歩として非常に役立つと思います。
 
 # TODO
 
