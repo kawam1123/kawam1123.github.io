@@ -21,8 +21,9 @@
 - WCA Documentsの中にある[WCA Cometition Tutorial](https://www.worldcubeassociation.org/files/WCA_Competition_Tutorial.pdf)を翻訳する。
 - - -
 ### 大会を運営する
-- WCA公式大会を企画して主催する
-- 
+- [ ] WCA公式大会を企画して主催する
+- [ ] 非公式競技のある大会をやってみたい
+
 - - -
 ## やったこと
 - - -
@@ -55,6 +56,12 @@ csTimerなどのタイマーアプリからエクスポートしたデータを�
 
 ```対応している形式／タイマーアプリ(2019年12月時点): WCA ID, cstimer, Block Keeper, ChaoTimer, Prisma Puzzle Timer, qqtimer, Twisty Timer, ZYX Timer```
 
+## Rouxの勉強に使っているもの
+- [Block Trainer](https://cubegrass.appspot.com/block_trainer/)
+    - FBとSBに分けてブロックづくりの練習ができる。FMCのブロックビルディングの練習にも使えるので、長くお世話になりそう。
+- [CMLL Guide by Kian Mansour](https://sites.google.com/view/kianroux/cmll)
+    - CMLL勉強中。ビデオも公開されているので非常に役に立つ。Rouxの解き方を覚えるにあたって、Kian MansourのRoux Tutorialが一番網羅的でわかりやすかった。
+
 - - -
 ## プロフィール
 - - -
@@ -66,5 +73,6 @@ csTimerなどのタイマーアプリからエクスポートしたデータを�
 - ブログ: [はてなブログ M'](https://kawam1123.hatenablog.com/)
 - Twitetr : [kawam1123](https://twitter.com/kawam1123)
 - Instagram : [kawam1123cuber](https://www.instagram.com/kawam1123cuber)
+- Youtube : [kawacube](https://www.youtube.com/channel/UChIJUW9WUwcijE8RYxFBf5A)
 - Reddit ：[kawam11235](https://www.reddit.com/user/kawam11235)
 - Speedsolving.com Forum : [kawam1123](https://www.speedsolving.com/members/kawam1123.48547/)
