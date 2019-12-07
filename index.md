@@ -11,7 +11,8 @@
 ### 公開ページを作る
 - [x] Github Pagesを作る
 - [ ] jekyllのレイアウトをカスタマイズする（←いまここ）
-- [ ] ローカルにjekyllのビルド環境を作る
+- [x] ローカルにjekyllのビルド環境を作る → (2019/12/07)成功。Gemfile以下は.gitignoreした。
+    - 参考にした記事：[GitHub PagesにJekyllを使っていい感じのページを作る例](https://qiita.com/stkdev/items/0e2df27736acbea9bd26)
 
 - - -
 ### ブログ記事を書く
