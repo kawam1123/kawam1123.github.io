@@ -1,24 +1,21 @@
+---
+title: HOME
+---
 ## これは何？
-- - -
 これは、私 (@kawam1123) の開発に関するアクティビティをまとめるためのページです。
-
-- - -
 
 ## やりたいこと
 
-- - -
 ### 公開ページを作る
 - [x] Github Pagesを作る
-- [ ] jekyllのレイアウトをカスタマイズする（←いまここ）
+- [ ] jekyllのレイアウトをカスタマイズする（←いまここ。少しずつ修正中）
 - [x] ローカルにjekyllのビルド環境を作る → (2019/12/07)成功。Gemfile以下は.gitignoreした。
     - 参考にした記事：[GitHub PagesにJekyllを使っていい感じのページを作る例](https://qiita.com/stkdev/items/0e2df27736acbea9bd26)
 
-- - -
 ### ブログ記事を書く
 - FMC アドベントカレンダーの記事を書く
 - 日本大会2019で実施したライブ配信環境についてまとめる
 
-- - -
 ### 翻訳する
 - [x] 翻訳関連のリポジトリを作る→作った。[翻訳関連リポジトリ：kawam1123/translation](https://github.com/kawam1123/translation)
 - [ ] Sebastiano Tronto氏の[FMC Tutorial](https://fmcsolves.cubing.net/fmc_tutorial_ENG.pdf)を日本語に翻訳する。→ 翻訳開始しました。翻訳用リポジトリを別途作成し、Markdownで日本語に翻訳しています。翻訳ページは[こちら](https://kawam1123.github.io/translation/FMC/FMC-tutorial.html)。

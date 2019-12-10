@@ -1,8 +1,10 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
+/*float:leftレイアウトを解消*/
+//header {width: auto; float: none;}
+//section {float: none;}
 /*見出しの書式*/
 h2 {
     background: #063e6b;/*背景色*/
