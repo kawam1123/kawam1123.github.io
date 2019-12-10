@@ -1,4 +1,3 @@
-# kawam1123.github.io
 ## これは何？
 - - -
 これは、私 (@kawam1123) の開発に関するアクティビティをまとめるためのページです。
@@ -21,9 +20,9 @@
 
 - - -
 ### 翻訳する
-- 翻訳関連のリポジトリを作る
-- Sebastiano Tronto氏の[FMC Tutorial](https://fmcsolves.cubing.net/fmc_tutorial_ENG.pdf)を日本語に翻訳する。
-- WCA Documentsの中にある[WCA Cometition Tutorial](https://www.worldcubeassociation.org/files/WCA_Competition_Tutorial.pdf)を翻訳する。
+- [x] 翻訳関連のリポジトリを作る→作った。[翻訳関連リポジトリ：kawam1123/translation](https://github.com/kawam1123/translation)
+- [ ] Sebastiano Tronto氏の[FMC Tutorial](https://fmcsolves.cubing.net/fmc_tutorial_ENG.pdf)を日本語に翻訳する。→ 翻訳開始しました。翻訳用リポジトリを別途作成し、Markdownで日本語に翻訳しています。翻訳ページは[こちら](https://kawam1123.github.io/translation/FMC/FMC-tutorial.html)。
+- [ ] WCA Documentsの中にある[WCA Cometition Tutorial](https://www.worldcubeassociation.org/files/WCA_Competition_Tutorial.pdf)を翻訳する。
 
 - - -
 ### 大会を運営する
@@ -45,7 +44,7 @@
 - - -
 ## TODO
 - - -
-- [ ] `FMC Tutorial` を通読する
+- [x] `FMC Tutorial` を通読する : 2019/12/09にようやく読みました。
 - [x] やること
 
 - - -
