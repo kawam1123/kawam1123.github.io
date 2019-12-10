@@ -19,6 +19,7 @@ title: HOME
 ### 翻訳する
 - [x] 翻訳関連のリポジトリを作る→作った。[翻訳関連リポジトリ：kawam1123/translation](https://github.com/kawam1123/translation)
 - [ ] Sebastiano Tronto氏の[FMC Tutorial](https://fmcsolves.cubing.net/fmc_tutorial_ENG.pdf)を日本語に翻訳する。→ 翻訳開始しました。翻訳用リポジトリを別途作成し、Markdownで日本語に翻訳しています。翻訳ページは[こちら](https://kawam1123.github.io/translation/FMC/FMC-tutorial.html)。
+- [ ] WCA大会チュートリアル (WCA Competition Tutorial) の翻訳を上と同じリポジトリに入れて管理する。ローカルでちょっと書いたものがあるので、どうせなら管理しつつ公開したほうがよかろう、と思った。→ [途中経過を公開しました。](http://127.0.0.1:4000/General/Competitor-tutorial.html)
 - [ ] WCA Documentsの中にある[WCA Cometition Tutorial](https://www.worldcubeassociation.org/files/WCA_Competition_Tutorial.pdf)を翻訳する。
 
 - - -
