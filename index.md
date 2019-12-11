@@ -36,7 +36,7 @@ title: HOME
     - オリジナルはRedditのu/PianoCube93氏が[投稿したポスト](https://www.reddit.com/r/Cubers/comments/7c2es2/full_oh_pll_guide/)です。元のポストでは、指使いのアニメーションGIF（ゆっくりバージョン／通常バージョン）が閲覧できます。OHのPLLはどうやって回すとよいのかを考える最初の一歩として非常に役立つと思います。
 
 ### FMC
-- [FMC アドベントカレンダーの2つめのスクランブルやる](./FMC/FMCadvent-2nd.html)
+- [FMC アドベントカレンダーの2つめのスクランブルやる](./fmc/2019/12/08/FMCadvent_2nd.html)
 
 - - -
 ## TODO
