@@ -13,13 +13,13 @@ title: HOME
     - 参考にした記事：[GitHub PagesにJekyllを使っていい感じのページを作る例](https://qiita.com/stkdev/items/0e2df27736acbea9bd26)
 
 ### ブログ記事を書く
-- FMC アドベントカレンダーの記事を書く
+- [FMC アドベントカレンダーの記事を書く](https://kawam1123.hatenablog.com/entry/FMC-Advent-Calendar-2019-day15) →2019/12/15 書いた。
 - 日本大会2019で実施したライブ配信環境についてまとめる
 
 ### 翻訳する
 - [x] 翻訳関連のリポジトリを作る→作った。[翻訳関連リポジトリ：kawam1123/translation](https://github.com/kawam1123/translation)
 - [ ] Sebastiano Tronto氏の[FMC Tutorial](https://fmcsolves.cubing.net/fmc_tutorial_ENG.pdf)を日本語に翻訳する。→ 翻訳開始しました。翻訳用リポジトリを別途作成し、Markdownで日本語に翻訳しています。翻訳ページは[こちら](https://kawam1123.github.io/translation/FMC/FMC-tutorial.html)。
-- [ ] WCA Documentsの中にある[WCA Cometition Tutorial](https://www.worldcubeassociation.org/files/WCA_Competition_Tutorial.pdf)を翻訳する。上と同じリポジトリに入れて管理する。ローカルでちょっと書いたものがあるので、どうせなら管理しつつ公開したほうがよかろう、と思った。→ [途中経過を公開しました。](http://127.0.0.1:4000/General/Competitor-tutorial.html)
+- [ ] WCA Documentsの中にある[WCA Cometition Tutorial](https://www.worldcubeassociation.org/files/WCA_Competition_Tutorial.pdf)を翻訳する。上と同じリポジトリに入れて管理する。ローカルでちょっと書いたものがあるので、どうせなら管理しつつ公開したほうがよかろう、と思った。→ [途中経過を公開しました。](http://kawam1123.github.io/General/Competitor-tutorial.html)
 
 - - -
 ### 大会を運営する
