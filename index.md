@@ -21,14 +21,14 @@ title: HOME
 - [ ] Sebastiano Tronto氏の[FMC Tutorial](https://fmcsolves.cubing.net/fmc_tutorial_ENG.pdf)を日本語に翻訳する。→ 翻訳開始しました。翻訳用リポジトリを別途作成し、Markdownで日本語に翻訳しています。翻訳ページは[こちら](https://kawam1123.github.io/translation/FMC/FMC-tutorial.html)。
 - [ ] WCA Documentsの中にある[WCA Cometition Tutorial](https://www.worldcubeassociation.org/files/WCA_Competition_Tutorial.pdf)を翻訳する。上と同じリポジトリに入れて管理する。ローカルでちょっと書いたものがあるので、どうせなら管理しつつ公開したほうがよかろう、と思った。→ [途中経過を公開しました。](http://kawam1123.github.io/General/Competitor-tutorial.html)
 
-- - -
+
 ### 大会を運営する
 - [ ] WCA公式大会を企画して主催する
 - [ ] 非公式競技のある大会をやってみたい
 
-- - -
+
 ## やったこと
-- - -
+
 - [WCAデータベースを用いた大会別初参加者の集計](https://github.com/kawam1123/wcadb)
     - 2019/05ごろにコードを書いて集計したもの。 **大会ごとに初参加者はどれくらいいるんだろう？** と思って集計したものです。日本国内で実施されている大会を対象に、SQLを雑に回しました。
 - [Full OH PLL Guide from PianoCube93](https://kawam1123.github.io/one-handed/Full%20OH%20PLL%20Guide%20from%20PianoCube93.pdf)
@@ -38,17 +38,10 @@ title: HOME
 ### FMC
 - [FMC アドベントカレンダーの2つめのスクランブルやる](./fmc/2019/12/08/FMCadvent_2nd.html)
 
-- - -
 ## TODO
-- - -
 - [x] `FMC Tutorial` を通読する : 2019/12/09にようやく読みました。
-- [x] やること
-
-- - -
 
 ## よく使うもの
-
-- - -
 
 ### ブラウザベースのタイマーアプリ [csTimer](https://cstimer.net/)
 デスクトップ/モバイルの両方で利用できるブラウザベースのタイマーアプリ。開発者はcs0x7f氏 (Chen Shuang)。開発速度が非常に早く、必要な機能は殆ど揃っている素晴らしいアプリ。私は主にこれを使っています。
@@ -60,8 +53,6 @@ title: HOME
     - 非常にたくさんの機能があるので、topppits氏がまとめてくれたもの
 - [csTimerのバーチャルキューブ機能についての記事](https://kawam1123.hatenablog.com/entry/2019/08/18/082542)
     - なぜか急に思い立ってバーチャルキューブ機能についてだけの記事を書いたもの。誰得。
-
-- - -
 
 ### タイマーデータ可視化ツール [Kuebiko Cubing](http://www.kuebiko-cubing.com/)
 csTimerなどのタイマーアプリからエクスポートしたデータをもとに、グラフを作って可視化できるようにしてくれるサービス。開発者はtussosedan氏 (Alex Friedman)。ある程度まとまった期間のソルブを俯瞰して進捗を確認したいときに使います。
