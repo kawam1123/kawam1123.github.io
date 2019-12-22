@@ -35,6 +35,13 @@ title: HOME
     - 片手競技(OH)を始めたころに大変お世話になったOH PLLの手順集を画像付きで１枚にまとめました。自分自身の確認用。
     - オリジナルはRedditのu/PianoCube93氏が[投稿したポスト](https://www.reddit.com/r/Cubers/comments/7c2es2/full_oh_pll_guide/)です。元のポストでは、指使いのアニメーションGIF（ゆっくりバージョン／通常バージョン）が閲覧できます。OHのPLLはどうやって回すとよいのかを考える最初の一歩として非常に役立つと思います。
 
+### キューブカバーの自作用図面
+公開されている図面データを元に、キューブカバーの自作用図面を作りました。詳細は[こちら](./cubecover.html)。
+![キューブカバー図面](./img/cubecover_layout.png "cube cover")
+![キューブカバー外観](./img/cubecover_outline.jpg "cube cover")
+- [印刷用図面(pdf)](./pdf/cubecover_forprint_rev2.pdf) 
+- [印刷用図面(dxf)](./pdf/cubecover_forprint_rev2.dxf) 
+
 ### FMC
 - [FMC アドベントカレンダーの2つめのスクランブルやる](./fmc/2019/12/08/FMCadvent_2nd.html)
 
