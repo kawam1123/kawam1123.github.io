@@ -1,5 +1,6 @@
 ---
 title: キューブカバー自作用図面
+thumb: cubecover_outline.jpg
 ---
 # キューブカバー自作用の図面
 
