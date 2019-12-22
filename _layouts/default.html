@@ -10,6 +10,9 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@kawam1123">
+    <meta name="twitter:creator" content="@kawam1123">
 {% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
 {% else %}
@@ -19,6 +22,9 @@
     <meta name="twitter:image" content="{{ site.url }}/img/{{ page.thumb }}" />
 {% else %}
     <meta name="twitter:image" content="{{ site.url }}/img/icon.jpg" />
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 {% endif %}
 {% if page.description %}
   <meta name="twitter:description" content="{{ page.description }}">
