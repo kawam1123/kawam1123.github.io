@@ -2,25 +2,16 @@
 ---
 @import "{{ site.theme }}";
 
+/*単一ページ用のCSSを定義。ヘッダーとフッターを利用しない場合を想定。*/
 /*float:leftレイアウトを解消*/
 //header {width: auto; float: none;}
 //section {float: none;}
 /*見出しの書式*/
-h2 .box {
-    background: #063e6b;/*背景色*/
-    color: #FFFFFF;
-    padding: 0.5em;
-}
-
 h2 {
     border-left: solid 10px navy;
     border-bottom: solid 1px navy;
     color: navy;
     padding: 0.5em;
-}
-
-h3 {
-    border-bottom: solid 1px black;
 }
 h3 {
     border-bottom: solid 1px black;
@@ -32,15 +23,8 @@ header h2{
     border-bottom: solid 1px black;
 }
 
+div.wrapper-auto { width: auto; }
 
-//.wrapper { width: 1200px;}
-
-//section  { width: 900px;}
-
-//header { width: 270px;}
-
-div.wrapper-auto { width: 80%; float:none;}
-
-section.section-auto { width: auto; float:none;}
+section.section-auto { width: auto; float: none;}
 
 section p {padding-left: 30px;}
