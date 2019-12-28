@@ -2,6 +2,7 @@
 title: 大人のためのキューブ勉強会
 layout: noheader
 thumb: otonacube_thumb.png
+description: 「大人のためのキューブ勉強会」の運営に関するメモ書きです。
 ---
 
 # 大人のためのキューブ勉強会
