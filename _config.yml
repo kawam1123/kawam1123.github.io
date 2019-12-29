@@ -1,5 +1,6 @@
 #remote_theme           : "mmistakes/minimal-mistakes@4.17.2"
-theme : "jekyll-theme-minimal"
+#theme : "jekyll-theme-minimal"
+theme: minimal-mistakes-jekyll
 lang  : "ja-JP"
 title : "KawamHub on GitHub Page"
 description: "スピードキューブ関連情報まとめ"
