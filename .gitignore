@@ -1,8 +1,7 @@
-### Ruby ###
+_site
+.sass-cache
+.jekyll-metadata
 Gemfile
 Gemfile.lock
-_config_dev.yml
 /vendor/
 /.bundle/
-/_site/
-/_data/
