@@ -4,7 +4,7 @@ header:
   teaser: /assets/img/otonacube_thumb.png
 description: 「大人のためのキューブ勉強会」の運営に関するメモ書きです。
 categories:
-  - Contents
+  - イベント
 tags:
   - 大人キューブ会
   - コミュニティ

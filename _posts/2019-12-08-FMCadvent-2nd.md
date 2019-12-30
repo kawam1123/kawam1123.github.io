@@ -5,7 +5,8 @@ categories:
   - FMC
 tags:
   - FMC思考過程
-permalink: 
+permalink:
+words_per_minute:
 ---
 
 [FMC Advent Calendar 2019](https://adventar.org/calendars/4487)の2つめのスクランブルに関するメモ書き。人生二度目のちゃんと時間を計ってやるFMC。

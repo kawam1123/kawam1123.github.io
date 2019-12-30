@@ -1,18 +1,20 @@
 ---
-title: "【キューブ関連】よく使うツールのまとめ"
-header:
-  teaser:
+title: "キューブ関連：よく使うツールのまとめ"
 description: "スピードキューブ関連でよく使うツールをまとめたメモ書き。"
+excerpt: "スピードキューブ関連でよく使うツールやリソースの情報を個人的な備忘としてまとめておきます。csTimerやKuebiko Cubingなど。"
 categories:
-  - Resource
+  - リソース
 tags:
   - Tools
   - タイマー
-
+permalink: /useful-tools/
+date: 2019-12-31 00:30:00 +0900
+words_per_minute: 10
 ---
 
 ## よく使うもの
-スピードキューブ関連でよく使うツールやリソースの情報をまとめておきます。個人的な備忘としてて。
+スピードキューブ関連でよく使うツールやリソースの情報を個人的な備忘としてまとめておきます。
+
 ### ブラウザベースのタイマーアプリ [csTimer](https://cstimer.net/)
 デスクトップ/モバイルの両方で利用できるブラウザベースのタイマーアプリ。開発者はcs0x7f氏 (Chen Shuang)。開発速度が非常に早く、必要な機能は殆ど揃っている素晴らしいアプリ。私は主にこれを使っています。
 - [csTimer翻訳プロジェクト (Crowdin))](https://crowdin.com/project/cstimer)
