@@ -9,13 +9,6 @@ sidebar:
 これは、私 (@kawam1123) の開発に関するアクティビティをまとめるためのページです。
 
 ## やりたいこと
-
-### 公開ページを作る
-- [x] Github Pagesを作る
-- [ ] jekyllのレイアウトをカスタマイズする（←いまここ。少しずつ修正中）
-- [x] ローカルにjekyllのビルド環境を作る → (2019/12/07)成功。Gemfile以下は.gitignoreした。
-    - 参考にした記事：[GitHub PagesにJekyllを使っていい感じのページを作る例](https://qiita.com/stkdev/items/0e2df27736acbea9bd26)
-
 ### ブログ記事を書く
 - [FMC アドベントカレンダーの記事を書く](https://kawam1123.hatenablog.com/entry/FMC-Advent-Calendar-2019-day15) →2019/12/15 書いた。
 - 日本大会2019で実施したライブ配信環境についてまとめる
@@ -40,6 +33,12 @@ sidebar:
     - オリジナルはRedditのu/PianoCube93氏が[投稿したポスト](https://www.reddit.com/r/Cubers/comments/7c2es2/full_oh_pll_guide/)です。元のポストでは、指使いのアニメーションGIF（ゆっくりバージョン／通常バージョン）が閲覧できます。OHのPLLはどうやって回すとよいのかを考える最初の一歩として非常に役立つと思います。
 - [大人キューブ会のイベント説明ページを作成した](./otonacube/)
 
+### 公開ページを作る
+- [x] Github Pagesを作る
+- [x]] jekyllのレイアウトをカスタマイズする（←いまここ。少しずつ修正中）
+- [x] ローカルにjekyllのビルド環境を作る → (2019/12/07)成功。Gemfile以下は.gitignoreした。
+    - 参考にした記事：[GitHub PagesにJekyllを使っていい感じのページを作る例](https://qiita.com/stkdev/items/0e2df27736acbea9bd26)
+
 ### キューブカバーの自作用図面
 公開されている図面データを元に、キューブカバーの自作用図面を作りました。詳細は[こちら](./cubecover.html)。
 ![キューブカバー図面](/assets/img/cubecover_layout.png "cube cover")
@@ -54,32 +53,8 @@ sidebar:
 - [x] `FMC Tutorial` を通読する : 2019/12/09にようやく読みました。
 
 ## よく使うもの
-
-### ブラウザベースのタイマーアプリ [csTimer](https://cstimer.net/)
-デスクトップ/モバイルの両方で利用できるブラウザベースのタイマーアプリ。開発者はcs0x7f氏 (Chen Shuang)。開発速度が非常に早く、必要な機能は殆ど揃っている素晴らしいアプリ。私は主にこれを使っています。
-- [csTimer翻訳プロジェクト (Crowdin))](https://crowdin.com/project/cstimer)
-        - 翻訳文字列が追加されるたびに更新しています。誤訳やもっと適切な翻訳があればここから更新できます。
-- [csTimerのソースコード(GitHub)](https://github.com/cs0x7f/cstimer)
-        - aa
-- [csTimerの機能リスト by topppits (Reddit)](https://www.reddit.com/r/Cubers/wiki/cstimer)
-    - 非常にたくさんの機能があるので、topppits氏がまとめてくれたもの
-- [csTimerのバーチャルキューブ機能についての記事](https://kawam1123.hatenablog.com/entry/2019/08/18/082542)
-    - なぜか急に思い立ってバーチャルキューブ機能についてだけの記事を書いたもの。誰得。
-
-### タイマーデータ可視化ツール [Kuebiko Cubing](http://www.kuebiko-cubing.com/)
-csTimerなどのタイマーアプリからエクスポートしたデータをもとに、グラフを作って可視化できるようにしてくれるサービス。開発者はtussosedan氏 (Alex Friedman)。ある程度まとまった期間のソルブを俯瞰して進捗を確認したいときに使います。
-
->対応している形式／タイマーアプリ(2019年12月時点): WCA ID, cstimer, Block Keeper, ChaoTimer, Prisma Puzzle Timer, qqtimer, Twisty Timer, ZYX Timer
-
-### Rouxの勉強に使っているもの
-- [Block Trainer](https://cubegrass.appspot.com/block_trainer/)
-    - FBとSBに分けてブロックづくりの練習ができる。FMCのブロックビルディングの練習にも使えるので、長くお世話になりそう。
-- [CMLL Guide by Kian Mansour](https://sites.google.com/view/kianroux/cmll)
-    - CMLL勉強中。ビデオも公開されているので非常に役に立つ。Rouxの解き方を覚えるにあたって、Kian MansourのRoux Tutorialが一番網羅的でわかりやすかった。
-
-- - -
+[/useful-tools/](/useful-tools/)に移動しました。
 ## プロフィール
-- - -
 関連するリンクを下記に貼っておきます。
 
 - [これまでのキューブ歴まとめ(1年目) (2019-08-01)](https://kawam1123.hatenablog.com/entry/2019/08/01/130802)
