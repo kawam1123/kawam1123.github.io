@@ -1,6 +1,8 @@
 ---
 title: FMCアドベントカレンダー2019:2試技目(失敗)
 description: FMCアドベントカレンダー2019の2試技目に取り組んだメモ。
+header:
+  teaser: /assets/img/event-333fm.jpg
 categories:
   - FMC
 tags:
