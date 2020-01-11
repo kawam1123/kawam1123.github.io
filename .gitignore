@@ -5,3 +5,4 @@ Gemfile
 Gemfile.lock
 /vendor/
 /.bundle/
+/_posts/credential/
