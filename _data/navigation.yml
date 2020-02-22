@@ -17,5 +17,9 @@ leftnav:
     children:
       - title: "運営メモ"
         url: /otonacube/
+      - title: "#37"
+        url: /otonacube/37
+      - title: "#38"
+        url: /otonacube/38
       - title: "イベントページ(connpass)"
         url: https://otonarubik.connpass.com/
