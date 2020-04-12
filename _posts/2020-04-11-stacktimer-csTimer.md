@@ -122,10 +122,17 @@ PCやMacで接続する場合、デフォルトのオーディオデバイスと
 
 [スタックタイマーとcsTimerの繋げ方 - uesyuu's Blog](https://uesyuu.com/blog/?p=448)
 
-### cyotheking (Chris Olson)
-**スタックタイマーとMacを接続するための解説動画。** コミカルな語り口であり、必要な事項をすべて網羅しており、わかりやすい。英語に抵抗のない方は、ここだけ見れば問題ない。
+### How To Setup a Stackmat With csTimer! by cyotheking
+**スタックタイマーとcsTimer(PC/Mac)を接続するための解説動画。** コミカルな語り口であり、必要な事項をすべて網羅しており、わかりやすい。さすがChris Olson。英語に抵抗のない方は、ここだけ見れば問題ない。
 
 {% include video id="KYmeKx2Q-EM" provider="youtube" %}
+
+### CCTとの接続方法 by europeancubers
+[CalCubeTimer](https://cct.cubing.net/)との接続方法の解説動画。
+
+{% include video id="gE0OoUhP6pU" provider="youtube" %}
+
+### インフォグラフィックのポスト（本記事の元ネタ）
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「スタックタイマーとタイマーアプリの接続構成例」のインフォグラフィックを作成しました。機器構成のためのケーブル／アダプタについて基本的なことだけ記載。とりあえずrev1。<br><br>スタックタイマーをPCやスマートフォンと接続して、無限スピードキューブできます。<a href="https://twitter.com/hashtag/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC%E7%B9%8B%E3%81%8C%E3%81%A3%E3%81%9F%E3%82%88?src=hash&amp;ref_src=twsrc%5Etfw">#スタックタイマー繋がったよ</a> <a href="https://t.co/roOM22GoYw">pic.twitter.com/roOM22GoYw</a></p>&mdash; かわむ (@kawam1123) <a href="https://twitter.com/kawam1123/status/1247896262269005827?ref_src=twsrc%5Etfw">April 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
