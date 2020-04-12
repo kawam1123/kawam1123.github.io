@@ -30,7 +30,7 @@ permalink: /stacktimer-cstimer-connection/
 ## 接続構成図
 PCおよびスマートフォンへの接続のために、想定される接続構成例をまとめました。下記の画像で一通りのことはわかると思います。
 
-![](../assets/img/stacktimer-configuration-rev1.png){: width="auto" height="auto" class="img-responsible align-center"}
+[![](../assets/img/stacktimer-configuration-rev1.png)](../assets/img/stacktimer-configuration-rev1.png){: width="auto" height="auto" class="img-responsible align-center"}
 
 ### iPhoneにつないでみた場合
 ![](../assets/img/stacktimer-connection-2.jpg){: width="auto" height="auto" class="img-responsible align-center"}
@@ -134,12 +134,13 @@ PCやMacで接続する場合、デフォルトのオーディオデバイスと
 ### 信号解析に関するもの
 - [Stackmat Viewer by Stefan Pochmann](https://www.stefan-pochmann.info/misc/stackmat/) : Stefan Pochmanによるスタックタイマーの信号解析。信号解析用のアプリケーションを開発していました。矩形波としてビット列を伝送していることがわかり、信号の内容が非同期シリアル通信であるRS-232Cに準拠したものであることがわかります。
 - [スタックタイマーの信号について(@Nyanyan_Cube) - Qiita (2020)](https://qiita.com/Nyanyan_Cube/items/e517e71cf5c4e2aaf1e5) : Nyanyan_CubeによるASCIIデータの解析記事。日本語記事としてビット列の解析をまとめているものでは本記事の内容が最も正確です。後述するNyanTimerの開発に用いられています。
->プロトコル：RS232C
->ボーレート：1200bps
->一連の信号は約8Hz(125ms毎)で送る(諸説あり)
->ビット内容：データビットは8つ(内容はステータス、時刻、チェックサム)
->パリティビット：なし
->終了ビットは一つ(LF) 2つ(LFCR)
+
+> プロトコル：RS232C  
+> ボーレート：1200bps  
+> 一連の信号は約8Hz(125ms毎)で送る(諸説あり)  
+> ビット内容：データビットは8つ(内容はステータス、時刻、チェックサム)  
+> パリティビット：なし  
+> 終了ビットは一つ(LF) 2つ(LFCR)  
 
 ### 自作スタックタイマー／ディスプレイに関するもの
 - [Selfmade Stackmat Display - Florian Weingarten (2008-2016)](https://github.com/fw42/atmel/tree/master/stackmat) : スタックマットタイマーと接続するトーナメントディスプレイの機能を自作で実現しています。ディスプレイの実装のために、必然的に信号の解析を含みます。ASCIIデータの意味、RS232C信号をTTLレベルに変換するなど、技術的な要素はこれを見れば把握できるでしょう。
