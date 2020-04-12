@@ -132,23 +132,30 @@ PCやMacで接続する場合、デフォルトのオーディオデバイスと
 スタックタイマーの出力信号や接続方式に関する技術的な要素に興味のある方は、次の記事を参照してください。
 
 ### 信号解析に関するもの
-- [Stackmat Viewer by Stefan Pochmann](https://www.stefan-pochmann.info/misc/stackmat/)
-- [スタックタイマーの信号について(@Nyanyan_Cube) - Qiita (2020)](https://qiita.com/Nyanyan_Cube/items/e517e71cf5c4e2aaf1e5)
+- [Stackmat Viewer by Stefan Pochmann](https://www.stefan-pochmann.info/misc/stackmat/) : Stefan Pochmanによるスタックタイマーの信号解析。信号解析用のアプリケーションを開発していました。矩形波としてビット列を伝送していることがわかり、信号の内容が非同期シリアル通信であるRS-232Cに準拠したものであることがわかります。
+- [スタックタイマーの信号について(@Nyanyan_Cube) - Qiita (2020)](https://qiita.com/Nyanyan_Cube/items/e517e71cf5c4e2aaf1e5) : Nyanyan_CubeによるASCIIデータの解析記事。日本語記事としてビット列の解析をまとめているものでは本記事の内容が最も正確です。後述するNyanTimerの開発に用いられています。
+>プロトコル：RS232C
+>ボーレート：1200bps
+>一連の信号は約8Hz(125ms毎)で送る(諸説あり)
+>ビット内容：データビットは8つ(内容はステータス、時刻、チェックサム)
+>パリティビット：なし
+>終了ビットは一つ(LF) 2つ(LFCR)
 
 ### 自作スタックタイマー／ディスプレイに関するもの
-- [Selfmade Stackmat Display - Florian Weingarten (2008-2016)](https://github.com/fw42/atmel/tree/master/stackmat)
+- [Selfmade Stackmat Display - Florian Weingarten (2008-2016)](https://github.com/fw42/atmel/tree/master/stackmat) : スタックマットタイマーと接続するトーナメントディスプレイの機能を自作で実現しています。ディスプレイの実装のために、必然的に信号の解析を含みます。ASCIIデータの意味、RS232C信号をTTLレベルに変換するなど、技術的な要素はこれを見れば把握できるでしょう。
   - [Selfmade Stackmat Display(YouTube) - Florian Weingarten (2008)](https://www.youtube.com/watch?v=Fj_J42mBATY)
   {% include video id="Fj_J42mBATY" provider="youtube" %}
-- [Dialup Stackmat - Jeremy Fleischman (2014)](https://www.jflei.com/2014/08/21/dialup-stackmat/)
-- [Stackmat Display Timer using Arduino UNO R3 - Ardianto Satriawan (2015)](https://blogs.itb.ac.id/satriawan/project/stackmat-display-timer-using-arduino-uno-r3/) : Arduino UNO R3利用
-- [ledmat - Jayanth Rajakumar (2017)](https://jayanth-rajakumar.github.io/ledmat/) : Arduino nano利用
+- [Dialup Stackmat - Jeremy Fleischman (2014)](https://www.jflei.com/2014/08/21/dialup-stackmat/) : スピードキューブ界隈での有名人、WCA ソフトウェアチーム (WST)のJeremy FleischmanによるDialup Stackmatの実装に関する記事です。**公式大会において、スタックタイマーから出力された結果をそのまま取得しよう！** というのがコンセプトです。2012年頃ポーランドの大会で同様のものが利用されたされたようですが、その知見は失われてしまいました。また、本信号解析による大きな知見は **「スマートフォンは人間の音声にあわせて入力された音声信号を補正することがあり、スタックタイマーの信号を歪める可能性がある」** ということです。信号の歪みを補正するための小型モジュールを制作しています。
+- [Stackmat Display Timer using Arduino UNO R3 - Ardianto Satriawan (2015)](https://blogs.itb.ac.id/satriawan/project/stackmat-display-timer-using-arduino-uno-r3/) : Arduino UNO R3を利用したディスプレイのDIYプロジェクト。
+- [ledmat - Jayanth Rajakumar (2017)](https://jayanth-rajakumar.github.io/ledmat/) : Arduino nanoを利用したディスプレイのDIYプロジェクト。
   - [DIY Stackmat Timer Display - Demo (Youtube) - Jayanth Rajakumar (2017)](https://youtu.be/PdUpv4ycwWA)
   {% include video id="PdUpv4ycwWA" provider="youtube" %}
-- [NyanTimer - Nyanyan (2019-2020)](https://github.com/Nyanyan/NyanTimer)
+- [NyanTimer - Nyanyan (2019-2020)](https://github.com/Nyanyan/NyanTimer) : ArduinoあるいはRaspberry Piを利用したスタックタイマーのDIYプロジェクト。
   - [NyanTimer(Youtube) - Nyanya(2019)](https://youtu.be/ierR8ZPBncU)
   {% include video id="ierR8ZPBncU" provider="youtube" %}
 - [DIY stackmat timer - theNighthawk1 (2019)](https://www.reddit.com/r/Cubers/comments/e2qbjt/my_diy_stackmat_timer_project_is_complete_uses_an/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 ### その他
-- [Mat for timing competitionsに関する特許情報](https://patents.google.com/patent/WO2003107013A2/en)
+- [Mat for timing competitionsに関する特許情報](https://patents.google.com/patent/WO2003107013A2/en) : SpeedStacksが保持しているスタックタイマーに関するUS Patentおよび国際特許の内容。
 > The present invention describes an apparatus and method for timing manual dexterity and hand-eye coordination competitions. Specifically, the present invention relates to an apparatus and method for timing cup stacking competitions. The apparatus of the present invention includes a mat which may incorporate a timer and the cups which are to be stacked on the mat.
+- [YuXin/FanXin Timer Now Illegal - Reddit](https://www.reddit.com/r/Cubers/comments/4i7le5/yuxinfanxin_timer_now_illegal/?utm_source=amp&utm_medium=&utm_content=post_body) : YuXin/FanXinのスタックタイマーが米国国内で販売できなくなった件に関する議論・
