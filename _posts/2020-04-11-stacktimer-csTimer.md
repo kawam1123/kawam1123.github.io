@@ -57,7 +57,7 @@ PCおよびスマートフォンへの接続のために、想定される接続
 | 各種変換ケーブル（スマートフォン向け） | (任意)|
 
 ### スタックタイマー
-スタックタイマーはWCA公式大会に利用されている [**SpeedStack Stackmat Timer G4**](https://store.tribox.com/products/detail.php?product_id=1762)の利用を想定します。トーナメントディスプレイに出力するために2.5mmステレオミニジャック(3極)が装備されているため、このジャックを利用して信号を取得します。**製品のタッチセンサー自体が非常にノイズに弱い**ため、個体差によって正常に動作しない場合があります。また、出力電圧が不安定であることが多く、新しい電池に交換することで正常に動作する場合があります。
+スタックタイマーはWCA公式大会に利用されている [**Speed Stacks Pro Timer G4**](https://store.tribox.com/products/detail.php?product_id=1762)の利用を想定します。トーナメントディスプレイに出力するために2.5mmステレオミニジャック(3極)が装備されているため、このジャックを利用して信号を取得します。**製品のタッチセンサー自体が非常にノイズに弱い**ため、個体差によって正常に動作しない場合があります。また、出力電圧が不安定であることが多く、新しい電池に交換することで正常に動作する場合があります。
 
 ![](../assets/img/stacktimer-connection-stacktimer.png){: width="auto" height="auto" class="img-responsible align-center"}
 Speed Stacks Pro Timer G4 (Tribox)
@@ -165,6 +165,10 @@ PCやMacで接続する場合、デフォルトのオーディオデバイスと
 - [DIY stackmat timer - theNighthawk1 (2019)](https://www.reddit.com/r/Cubers/comments/e2qbjt/my_diy_stackmat_timer_project_is_complete_uses_an/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 ### その他
-- [Mat for timing competitionsに関する特許情報](https://patents.google.com/patent/WO2003107013A2/en) : SpeedStacksが保持しているスタックタイマーに関するUS Patentおよび国際特許の内容。
+- [Mat for timing competitionsに関する特許情報](https://patents.google.com/patent/WO2003107013A2/en) : SpeedStacksが保持しているスタックタイマーに関するUS Patentおよび国際特許の内容。 下記のWCA規則での議論と合わせれば**取得から20年後の2023年には特許が失効する** はずである。
 > The present invention describes an apparatus and method for timing manual dexterity and hand-eye coordination competitions. Specifically, the present invention relates to an apparatus and method for timing cup stacking competitions. The apparatus of the present invention includes a mat which may incorporate a timer and the cups which are to be stacked on the mat.
-- [YuXin/FanXin Timer Now Illegal - Reddit](https://www.reddit.com/r/Cubers/comments/4i7le5/yuxinfanxin_timer_now_illegal/?utm_source=amp&utm_medium=&utm_content=post_body) : YuXin/FanXinのスタックタイマーが米国国内で販売できなくなった件に関する議論・
+- [YuXin/FanXin Timer Now Illegal - Reddit](https://www.reddit.com/r/Cubers/comments/4i7le5/yuxinfanxin_timer_now_illegal/?utm_source=amp&utm_medium=&utm_content=post_body) : YuXin/FanXinのスタックタイマーが米国国内で販売できなくなった件に関する議論。
+- [Timer: specification / certification system · Issue #529 · thewca/wca-regulations](https://github.com/thewca/wca-regulations/issues/529) : 特定の製品を指定するのではなく、公式大会用のタイマーの基準を定めるべきではないかという議論(2018-)。RS-232通信や2.5mmジャックなどの時代遅れな規格をやめ、Ethernet/USB/Bluetooth/Wifiなどのサポート、大会用のタイマーサーバーの容易、指紋認証などの機能を加えもよいという話がある。議論の一部は下記のようなものがある
+  - 「Speed Stacksのタイマーが利用されている理由の一つは、全世界で利用可能であるために公平性を保てるところである。」
+  - 「WCAが購入する場合には割引を受けられるため、既存製品より安価に開発／テスト／生産することは難しいのではないか」
+  - 「Speed Stacks Stackmat Timerという表記をWCA認定タイマーとしてはどうか」
