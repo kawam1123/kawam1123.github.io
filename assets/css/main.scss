@@ -16,11 +16,17 @@
 
 /*見出しの書式*/
 section.page__content h2 {
-    border-bottom: solid 1px black;
+    border-bottom: solid 1.5px black;
 }
 
 section.page__content h3 {
     border-bottom: dotted 1px gray;
+}
+
+section.page__content h4 {
+    font-size: 1em;
+    display:inline-block;
+    border-bottom: dotted 0.5px gray;
 }
 
 .sticky_table thead th {
