@@ -4,8 +4,9 @@ excerpt: csTimerの機能および操作方法について解説します。
 description: csTimer日本語版の非公式ユーザーズガイドです。主要な機能および操作方法について解説します。
 date: 2020-05-24 17:00:00 +0900
 header:
-  image: /assets/img/csTimerGuideHeader.png
   teaser: /assets/img/csTimerGuide.png
+  og_image: /assets/img/csTimerGuide.png
+  image: /assets/img/csTimerGuideHeader.png
 categories:
   - csTimer
 tags:
