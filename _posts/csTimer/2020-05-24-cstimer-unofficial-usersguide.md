@@ -18,6 +18,9 @@ sidebar: true
 permalink: /csTimer/usersguide
 
 ---
+本記事は書きはじめたばかりです。とりあえず雛形だけ作ったよ！
+{: .notice--info}
+
 ## csTimerとは何か？
 
 ## 主要機能は？
