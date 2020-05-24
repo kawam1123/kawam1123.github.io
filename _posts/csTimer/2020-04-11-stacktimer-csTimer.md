@@ -6,7 +6,7 @@ date: 2020-04-12 00:00:00 +0900
 header:
   teaser: /assets/img/stacktimer-configuration-rev1.png
 categories:
-  - stacktimer
+  - csTimer
 tags:
   - Tools
   - タイマー
