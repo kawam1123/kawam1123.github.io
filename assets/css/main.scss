@@ -48,3 +48,7 @@ section.page__content h3 {
     /* ヘッダー列内の他のセルより手前に表示する */
     z-index: 2;
 }
+
+figure img {
+    width: auto;
+}

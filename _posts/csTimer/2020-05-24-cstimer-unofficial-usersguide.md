@@ -17,10 +17,52 @@ layout: single
 author_profile: true
 sidebar: true
 permalink: /cstimer/usersguide
+
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_label: "目次"
+toc_icon: "align-left"
 toc_sticky: true
+
+gallery_ui:
+  - url: /assets/img/cstimer/cstimer_menu.png
+    image_path: /assets/img/cstimer/cstimer_menu.png
+    alt: "メニュー"
+    title: "メニュー"
+  - url: /assets/img/cstimer/cstimer_statmenu.png
+    image_path: /assets/img/cstimer/cstimer_statmenu.png
+    alt: "統計情報"
+    title: "統計情報"
+  - url: /assets/img/cstimer/cstimer_solvedetail.png
+    image_path: /assets/img/cstimer/cstimer_solvedetail.png
+    alt: "ソルブ詳細"
+    title: "ソルブ詳細"
+
+gallery_sessions:
+  - url: /assets/img/cstimer/cstimer_sessionmanager.png
+    image_path: /assets/img/cstimer/cstimer_sessionmanager.png
+    alt: "セッションマネージャー"
+    title: "セッションマネージャー"
+  - url: /assets/img/cstimer/cstimer_sessionmanager_op.png
+    image_path: /assets/img/cstimer/cstimer_sessionmanager_op.png
+    alt: "セッションマネージャー(操作)"
+    title: "セッションマネージャー(操作)"
+
+gallery_options:
+  - url: /assets/img/cstimer/cstimer_options.png
+    image_path: /assets/img/cstimer/cstimer_options.png
+    alt: "オプション"
+    title: "オプション"
+
+gallery_tools:
+  - url: /assets/img/cstimer/cstimer_tool_dist.png
+    image_path: /assets/img/cstimer/cstimer_tool_dist.png
+    alt: "分布"
+    title: "分布"
+  - url: /assets/img/cstimer/cstimer_tool_trend.png
+    image_path: /assets/img/cstimer/cstimer_tool_trend.png
+    alt: "トレンド"
+    title: "トレンド"
+
 
 ---
 本記事は書きはじめたばかりです！とりあえず雛形だけ作った状態なので、まだ内容はあまりありません(2020/05/24)
@@ -71,14 +113,27 @@ Ao5やAo12などの基本的な統計機能のほか、セッション単位で�
 
 ## 基本操作 {#basic-usage}
 ### UI {#user-interface}
+{% include gallery id="gallery_ui" caption="ユーザーインターフェイス" %}
+
+ユーザーインターフェイスの詳細について記載予定
+{: .notice--danger}
+
 ### タイマーをスタート・ストップする {#timing}
-スペース、インスペクションあり
+スペース、インスペクションあり、タイピング、スタックタイマー連携
+
 ### セッション管理 {#session-management}
+{% include gallery id="gallery_sessions" caption="セッションマネージャー" %}
 
 セッション管理の基本、セッションの分割とマージ、インポートとエクスポートについて記載予定
 {: .notice--danger}
 
+### セッションの作成
+### セッションの削除
+### セッションの結合
+### セッションの分割
+
 ### ツール {#tools}
+{% include gallery id="gallery_tools" caption="ツール" %}
 
 ツールの利用、各ツールの機能と利用方法について記載予定
 {: .notice--danger}
@@ -92,7 +147,7 @@ Ao5やAo12などの基本的な統計機能のほか、セッション単位で�
 - `Alt + Z`: 最後のタイムを削除する
 
 ## オプション {#options}
-
+{% include gallery id="gallery_options" caption="オプション" %}
 オプション画面のキャプチャを挿入し、項目ごとに記載予定
 {: .notice--danger}
 
