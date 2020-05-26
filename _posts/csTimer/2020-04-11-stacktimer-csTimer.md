@@ -9,7 +9,7 @@ header:
   image: /assets/img/stacktimer-connection-header.png
 
 categories:
-  - csTimer
+  - cstimer
 tags:
   - Tools
   - タイマー
