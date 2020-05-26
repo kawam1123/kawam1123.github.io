@@ -8,11 +8,11 @@
 @import "minimal-mistakes"; // main partials
 
 /* bigger screen*/
-@media (min-width: 80em) { .masthead__inner-wrap { max-width: 1920px; } }
-@media (min-width: 80em) { #main { max-width: 1920px; } }
-@media (min-width: 80em) { .breadcrumbs { max-width: 1920px; } }
-@media (min-width: 80em) { .page__footer footer { max-width: 1920px; } }
-@media (min-width: 80em) { .search-content__inner-wrap { max-width: 1920px; } }
+@media (min-width: 80em) { .masthead__inner-wrap { max-width: 1800px; } }
+@media (min-width: 80em) { #main { max-width: 1800px; } }
+@media (min-width: 80em) { .breadcrumbs { max-width: 1800px; } }
+@media (min-width: 80em) { .page__footer footer { max-width: 1800px; } }
+@media (min-width: 80em) { .search-content__inner-wrap { max-width: 1800px; } }
 
 /*見出しの書式*/
 section.page__content h2 {

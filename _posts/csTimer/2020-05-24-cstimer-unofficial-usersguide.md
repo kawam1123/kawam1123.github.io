@@ -1,8 +1,8 @@
 ---
 title: csTimer日本語版ユーザーズガイド(非公式)
-excerpt: csTimerの機能および操作方法について解説します。
-description: csTimer日本語版の非公式ユーザーズガイドです。主要な機能および操作方法について解説します。
-date: 2020-05-24 17:00:00 +0900
+excerpt: csTimerはスピードキューブ用のオンラインタイマーアプリです。本ドキュメントはcsTimerの日本語版の非公式ユーザーズガイドです。日本語版UIをベースに、主な機能と操作方法について解説します。（スクランブル、統計情報、ソルバー、バックアップなど）
+description: csTimerはスピードキューブ用のオンラインタイマーアプリです。本ドキュメントはcsTimerの日本語版の非公式ユーザーズガイドです。日本語版UIをベースに、主な機能と操作方法について解説します。（スクランブル、統計情報、ソルバー、バックアップなど）
+date: 2020-05-26 22:00:00 +0900
 header:
   teaser: /assets/img/cstimer/csTimerGuide.png
   og_image: /assets/img/cstimer/csTimerGuide.png
@@ -62,7 +62,28 @@ gallery_tools:
     image_path: /assets/img/cstimer/cstimer_tool_trend.png
     alt: "トレンド"
     title: "トレンド"
+  - url: /assets/img/cstimer/cstimer_tool_draw.png
+    image_path: /assets/img/cstimer/cstimer_tool_draw.png
+    alt: "スクランブルの描画"
+    title: "スクランブルの描画"
+  - url: /assets/img/cstimer/cstimer_tool_crosssession.png
+    image_path: /assets/img/cstimer/cstimer_tool_crosssession.png
+    alt: "クロスセッションの統計情報"
+    title: "クロスセッションの統計情報"
+  - url: /assets/img/cstimer/cstimer_tool_solver.png
+    image_path: /assets/img/cstimer/cstimer_tool_solver.png
+    alt: "ソルバー"
+    title: "ソルバー"
+  - url: /assets/img/cstimer/cstimer_tool_dailystat.png
+    image_path: /assets/img/cstimer/cstimer_tool_dailystat.png
+    alt: "Daily Statistics"
+    title: "Daily Statistics"
 
+gallery_quickstart:
+  - image_path: /assets/img/cstimer/cstimer_quickstart1.png
+  - image_path: /assets/img/cstimer/cstimer_quickstart2.png
+  - image_path: /assets/img/cstimer/cstimer_quickstart3.png
+  - image_path: /assets/img/cstimer/cstimer_quickstart4.png
 
 ---
 本記事は書きはじめたばかりです！とりあえず雛形だけ作った状態なので、まだ内容はあまりありません(2020/05/24)
@@ -75,11 +96,35 @@ gallery_tools:
 
 csTimerは中国のスピードキューバー[Shuang Chen (cs0x7f)](https://www.speedsolving.com/wiki/index.php/Shuang_Chen)によって2012年にリリースされたスピードキューブ用のオンラインタイマーアプリケーションです。2020年05月現在もアクティブに機能追加や修正が進められており、スピードキューブの計測用のタイマーとして必要な基本的機能が揃っているだけでなく、他のタイマーアプリにないような機能も豊富にあります。それぞれの機能の概要や使い方についてまとめたものがなかったため、非公式にユーザーズガイドを執筆することにしました。本ドキュメントがcsTimerユーザーの助けになれば幸いです。[^1]
 
+## クイックスタート {#quickstart}
+まずは、まったくcsTimerを使ったことがない人向けとして、計測を始めるまでの流れを簡単にお教えしましょう。（csTimerを使ったことのあるユーザーは読み飛ばしてください！）
+
+**csTimerはスピードキューブの練習用に作られたタイマーアプリケーションです。**主にルービックキューブ(3x3x3キューブ)を速く解くための練習に使われますが、他にもいろいろな競技に対応しています。Webブラウザ上で動作するので、プラットフォームを選ばず利用することができます。PC/Mac/Linux/iOS/Androidのどの環境でも同じように動作します。さあ、次の手順に従って使ってみましょう！
+
+1. **[https://cstimer.net](https://cstimer.net)にアクセスします。**モダンなブラウザ(Chrome、Firefox、Edgeなど)であれば問題なく動作するでしょう。 次のような初期画面が表示されれば成功です。 
+![](/assets/img/cstimer/cstimer_quickstart1.png){:width="600px" height="auto" class="img-responsive align-center"}  
+![](/assets/img/cstimer/cstimer_quickstart_mobile.png){:width="300px" height="auto" class="img-responsive align-center"}
+2. **画面上部にルービックキューブ(3x3x3キューブ)のスクランブルが表示されています。**まずはスクランブルに従ってキューブを崩してみましょう。スクランブルが読めない？回転記号がわからない？そんなあなたはまず[ここ](https://cubevoyage.net/how-to-solve/intermediate/notation/)や[ここ](https://tribox.com/3x3x3/solution/notation/)を読みましょう。
+3. キューブを無事にスクランブルできたら、**キーボードのスペースキーを長押しします。スマートフォンやタブレットを使っている場合は、画面の真ん中あたりを長くタップしましょう。** このとき、次のような画面に変わるはずです。  
+![](/assets/img/cstimer/cstimer_quickstart3.png){:width="600px" height="auto" class="img-responsive align-center"}
+4. **スペースキーを離すと計測が開始します。**スマートフォンやタブレットではタップした指を離すだけです。さあ急いでキューブを解き始めましょう！できる限り速く！
+![](/assets/img/cstimer/cstimer_quickstart4.png){:width="600px" height="auto" class="img-responsive align-center"}
+5.無事にキューブを揃えられましたか？では、**スペースキーをもう一度軽く押してタイマーを止めましょう。** スマートフォンやタブレットではタップします。画面右側のタイム一覧にあなたのタイムが新しく追加されているのがわかるでしょうか？ **これでcsTimerでの初計測は無事終了しました！おめでとうございます！**  
+![](/assets/img/cstimer/cstimer_quickstart5.png){:width="600px" height="auto" class="img-responsive align-center"}
+6. 何度か計測をしていくと、左側の統計パネルに**Ao5やAo12などの統計情報が自動的に表示されていくのがわかるでしょう。** タイムの分布やヒストグラムを表示するツールと使って、あなたのタイムを可視化することもできます。**画面左上にあるメニューから「ツール」ボタンを選択して、「タイムの分布」や「タイムトレンド」などのツールを使ってみましょう。**  
+![](/assets/img/cstimer/cstimer_menu.png){:width="600px" height="auto" class="img-responsive align-center"}  
+![](/assets/img/cstimer/cstimer_quickstart6.png){:width="600px" height="auto" class="img-responsive align-center"}
+7. **計測されたタイムのデータは自動的にブラウザ内に保存されます。**ブラウザのキャッシュを削除しない限りデータは消えませんが、データが消えないようにしておきたいなら、定期的にバックアップすることをお勧めします。**メニューから「エクスポート」ボタンを選択して、データの保存先を選択しましょう**（自動的にエクスポートするオプションもあります）。
+![](/assets/img/cstimer/cstimer_quickstart7.png){:width="600px" height="auto" class="img-responsive align-center"}  
+8. さあ、次は何をしましょう。4x4x4の練習をしてWRを取りたい？スクエア-1の成形(CSP)だけを練習してsub-10したい？3x3x3複数目隠しで1時間を無駄にしたい？ 次に何をするかはあなた次第です。**csTimerをお楽しみください！**
+
 ## 主要機能は？ {#features}
 csTimerの主要機能および操作方法を説明します。
 
 ### スクランブル {#scramble}
 csTimerは、**全てのWCA公式種目のスクランブルに対応(WCA準拠）**しており、スピードキューブ練習のためのスクランブル、計測、記録、統計表示の機能がひとつにまとまっています。また、特定のサブステップを練習するためのスクランブルや、リレー競技(234リレーなど)、エッジのみ、コーナーのみ、簡単なクロス、など、非常に多くのスクランブルタイプを選択することができます。
+
+また、「3x3x3」と「3x3x3片手」など、まったく同じアルゴリズムでスクランブルを生成するものもあります。実施する競技に応じてスクランブルタイプを設定することで、同じ種類のスクランブルをまとめて統計情報を表示することができます。（例・複数のセッションから3x3x3片手の記録だけ抜き出して統計を表示したい）
 
 対応しているスクランブルタイプの例を以下に挙げます。
 #### 全てのWCA公式種目
@@ -152,7 +197,9 @@ Ao5やAo12などの基本的な統計機能のほか、セッション単位で�
 ### ソルバー {#solver}
 クロス、X-Cross、2x2x2の一面、スキューブの一面、スクエア1の整形などのソルバー機能があります。クロスなど特定のステップの学習や練習に利用できます。
 ### バックアップ {#backup}
-クラウドストレージ（csTimerサーバー、Google Driveなど）へのデータバックアップ機能があります。また、ローカルのエクスポート／インポート機能があります。
+計測したデータはクラウドストレージにエクスポート／インポートすることができるため、使っているマシンが壊れたとしてもデータを全て失うことはありません。また、最初の読み込み後はキャッシュ上に展開されるため、インターネット接続がなくても計測をすることができます。
+
+バックアップ先として選択できるのは、csTimerサーバー、Google Driveです。csTimerサーバーにバックアップするときには、WCAアカウントと連携してユーザー情報を保持することができます。また、ローカルのエクスポート／インポート機能があり、kuekibo-cubingのような外部ツールと連携して自分のソルブを分析することができるでしょう。
 
 ## 基本操作 {#basic-usage}
 ### UI {#user-interface}

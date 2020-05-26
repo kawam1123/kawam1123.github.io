@@ -171,6 +171,7 @@ PCやMacで接続する場合、デフォルトのオーディオデバイスと
 - [NyanTimer - Nyanyan (2019-2020)](https://github.com/Nyanyan/NyanTimer) : ArduinoあるいはRaspberry Piを利用したスタックタイマーのDIYプロジェクト。
   - [NyanTimer(Youtube) - Nyanya(2019)](https://youtu.be/ierR8ZPBncU)
   {% include video id="ierR8ZPBncU" provider="youtube" %}
+  {: .w-50 p.-3}
 - [DIY stackmat timer - theNighthawk1 (2019)](https://www.reddit.com/r/Cubers/comments/e2qbjt/my_diy_stackmat_timer_project_is_complete_uses_an/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 ### その他
