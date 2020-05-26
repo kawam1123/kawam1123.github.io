@@ -116,7 +116,9 @@ csTimerは中国のスピードキューバー[Shuang Chen (cs0x7f)](https://www
 ![](/assets/img/cstimer/cstimer_quickstart6.png){:width="600px" height="auto" class="img-responsive align-center"}
 7. **計測されたタイムのデータは自動的にブラウザ内に保存されます。**ブラウザのキャッシュを削除しない限りデータは消えませんが、データが消えないようにしておきたいなら、定期的にバックアップすることをお勧めします。**メニューから「エクスポート」ボタンを選択して、データの保存先を選択しましょう**（自動的にエクスポートするオプションもあります）。
 ![](/assets/img/cstimer/cstimer_quickstart7.png){:width="600px" height="auto" class="img-responsive align-center"}  
-8. さあ、次は何をしましょう。4x4x4の練習をしてWRを取りたい？スクエア-1の成形(CSP)だけを練習してsub-10したい？3x3x3複数目隠しで1時間を無駄にしたい？ 次に何をするかはあなた次第です。**csTimerをお楽しみください！**
+8. さあ、次は何をしましょう。4x4x4の練習をしてWRを取りたい？スクエア-1の成形(CSP)だけを練習してsub-10したい？3x3x3複数目隠しで1時間を無駄にしたい？ 次に何をするかはあなた次第です。
+
+**csTimerをお楽しみください！**
 
 ## 主要機能は？ {#features}
 csTimerの主要機能および操作方法を説明します。
