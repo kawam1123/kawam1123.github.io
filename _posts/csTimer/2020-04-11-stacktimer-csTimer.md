@@ -131,6 +131,11 @@ PCやMacで接続する場合、デフォルトのオーディオデバイスと
 
 {% include video id="KYmeKx2Q-EM" provider="youtube" %}
 
+### The ULTIMATE set up! - Stackmat connected to CSTimer and Display by SpeedCubeReview
+上記と同様に**スタックタイマーとcsTimer(PC)を接続するための解説動画。csTimerと同時にトーナメントディスプレイにも表示しています。** SpeedCubeReviewのShawnは以前にも接続構成の動画を上げており、よりわかりやすくなって帰ってきたもの。画面上に次々にコメントがポップアップして増えていくのが面白い。Quarantine hairがツボ。Y型のスプリッタを使って、スタックタイマーの信号を分配している。
+
+{% include video id="KYmeKx2Q-EM" provider="g-o4IhadjGM" %}
+
 ### CCTとの接続方法 by europeancubers
 [CalCubeTimer](https://cct.cubing.net/)との接続方法の解説動画。
 
