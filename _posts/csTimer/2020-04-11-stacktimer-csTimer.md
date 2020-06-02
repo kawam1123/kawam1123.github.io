@@ -118,7 +118,6 @@ PCやMacで接続する場合、デフォルトのオーディオデバイスと
 
 ![](../assets\img\cstimer\cstimer_stackmat.png){: width="auto" height="auto" class="img-responsible align-center"}
 
-
 ### その他のタイマーアプリ
 - Prisma Puzzle timer (PPT)でも動作するはずです。（未検証）
 - CubingTime.comにもスタックタイマー互換性があるらしいので、動作しそうです。（未検証）
