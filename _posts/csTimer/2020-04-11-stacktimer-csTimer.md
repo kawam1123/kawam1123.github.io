@@ -71,8 +71,12 @@ Speed Stacks Pro Timer G4 (Tribox)
 - **Speed Stacks Pro Timer G4**
 - YuXin Timer
 - NyanTimer/NyanTimer2 (公式タイマーの信号に準拠するため利用できるはず)
+- YJ Timer
+- YJ Pocket Timer
 
 **MoYuTimerのみ出力されるビット列が異なるため、タイマーアプリ側での信号補正が必要となります。** csTimerはMoYuTimerの信号を補正するオプションがあるので対応しています。
+
+YJ TimerおよびYJ Pocket Timerについても信号が互換であることがわかっています。csTimerで問題なく動作するようです。。詳しくは幸地さんのレビュー([YJ Timer＆YJ Pocket Timerレビュー](https://note.com/xingfu_da771/n/n3415b390097a))や[smartshipの検証ツイート](https://twitter.com/smartshipstore/status/1266279951432511489)などを読みましょう。
 
 ### オーディオケーブル
 - **スタックタイマーからの信号は音声信号として出力されます。** ((RS-232C準拠のシリアル信号として出力されます))
