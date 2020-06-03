@@ -71,7 +71,7 @@ Speed Stacks Pro Timer G4 (Tribox)
 - **Speed Stacks Pro Timer G4**
 - YuXin Timer (ビット列が微妙に違いますがcsTimerでは無視して動作します)
 - MoYu Timer (後述のオプションを有効にする必要あり)
-- NyanTimer/NyanTimer2 (公式タイマーの信号に準拠するため利用できるはず)
+- [NyanTimer/NyanTimer2](https://nyanyan.github.io/ja/#nyantimer) (公式タイマーの信号に準拠するため利用できるはず)
 - YJ Timer
 - YJ Pocket Timer
 
