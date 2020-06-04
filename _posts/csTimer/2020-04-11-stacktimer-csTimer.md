@@ -116,6 +116,8 @@ PCやMacで接続する場合、デフォルトのオーディオデバイスと
 1. **ブラウザでcsTimerにアクセスします。** PC/Macでは、Google Chromeの最新版を利用することをお勧めします。スマートフォンではSafariやChromeなどを使ってください。Google Chromeで動作しない場合、Mozilla Firefoxで試してみるとうまくいく場合もあるようです。また、csTimerへの接続時にはHTTPS接続([https://cstimer.net](https://cstimer.net) )していることを確認しましょう。HTTP接続ではブラウザがオーディオデバイスを利用できないためです。
 1. **[オプション]>[タイマー]>[タイム入力方式]>[スタックマット]**を選択します。
 1. オーディオデバイスの利用許可を求めるポップアップが表示されるため、[許可]を選択します。
+1. 「Stackmat Connect」という画面が表示されるのが[OK]を選択します。  
+![](../assets\img\cstimer\cstimer_stackmat_connect.png){: width="auto" height="auto" class="img-responsible align-center"}  
 1. **スタックタイマーの電源を入れます。** 画面上に0:00などの表示が出ていれば正常に接続できています。
 
 ![](../assets\img\stacktimer-connection-cstimeroption.png){: width="auto" height="auto" class="img-responsible align-center"}
