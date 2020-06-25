@@ -1,7 +1,7 @@
 ---
 title: パズル一覧
 excerpt: 手持ちの回転パズルの一覧です
-description: 手持ちの回転パズルの一覧です
+description: 手持ちの回転パズルの一覧です。(2020年6月時点)
 date: 2020-06-25 23:00:00 +0900
 categories:
   - キューブ
