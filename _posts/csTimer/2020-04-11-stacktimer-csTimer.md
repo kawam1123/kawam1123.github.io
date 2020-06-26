@@ -4,7 +4,7 @@ excerpt: スタックタイマーをcsTimerに接続するための機器構成�
 description: スタックタイマーをcsTimerに接続するための機器構成を紹介します。
 date: 2020-05-26 19:00:00 +0900
 header:
-  teaser: /assets/img/stacktimer-connection-header.png
+  teaser: /assets/img/stacktimer-connection-header-og.png
   og_image: /assets/img/stacktimer-connection-header-og.png
   image: /assets/img/stacktimer-connection-header.png
 

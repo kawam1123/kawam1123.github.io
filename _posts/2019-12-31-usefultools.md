@@ -3,7 +3,7 @@ title: "キューブ関連：よく使うツールのまとめ"
 description: "スピードキューブ関連でよく使うツールをまとめたメモ書き。"
 excerpt: "スピードキューブ関連でよく使うツールやリソースの情報を個人的な備忘としてまとめておきます。csTimerやKuebiko Cubingなど。"
 header:
-  teaser: /assets/img/cstimer-about.png
+  teaser: /assets/img/cog.png
 categories:
   - リソース
 tags:

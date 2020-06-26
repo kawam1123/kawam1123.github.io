@@ -2,7 +2,8 @@
 title: 大人のためのキューブ勉強会：運営メモ
 header:
   teaser: /assets/img/otonacube_thumb.png
-description: 「大人のためのキューブ勉強会」の運営に関するメモ書きです。
+excerpt: 「大人のためのキューブ勉強会」の運営に関するメモ書きです。通称「大人キューブ会」。コンセプトや今後の展望などを書いています。
+description: 「大人のためのキューブ勉強会」の運営に関するメモ書きです。通称「大人キューブ会」。コンセプトや今後の展望などを書いています。
 categories:
   - otonacube
 tags:

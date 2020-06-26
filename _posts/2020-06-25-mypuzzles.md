@@ -1,7 +1,7 @@
 ---
 title: パズル一覧
-excerpt: 手持ちの回転パズルの一覧です
-description: 手持ちの回転パズルの一覧です
+excerpt: 手持ちの回転パズルの一覧です。自分自身の備忘のため、WCA公式競技のパズルとそうでないパズルに分けて記載しています。
+description: 手持ちの回転パズルの一覧です。自分自身の備忘のため、WCA公式競技のパズルとそうでないパズルに分けて記載しています。
 date: 2020-06-25 23:00:00 +0900
 header:
   teaser: /assets/img/my-puzzles-header.png
