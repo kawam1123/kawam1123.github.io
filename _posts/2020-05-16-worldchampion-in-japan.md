@@ -3,6 +3,8 @@ title: 「世界チャンピオン」タイトルのある日本人スピード�
 excerpt: WCA世界大会での「世界チャンピオン」のタイトルを持っている日本人スピードキューバーの一覧をまとめました。
 description: WCA世界大会での「世界チャンピオン」のタイトルを持っている日本人スピードキューバーの一覧をまとめました。
 date: 2020-05-16 17:00:00 +0900
+header:
+  teaser: /assets/img/worldchampion-in-japan-header.png
 categories:
   - officialrecord
 tags:
