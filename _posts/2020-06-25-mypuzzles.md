@@ -3,6 +3,7 @@ title: パズル一覧
 excerpt: 手持ちの回転パズルの一覧です。自分自身の備忘のため、WCA公式競技のパズルとそうでないパズルに分けて記載しています。
 description: 手持ちの回転パズルの一覧です。自分自身の備忘のため、WCA公式競技のパズルとそうでないパズルに分けて記載しています。
 date: 2020-06-25 23:00:00 +0900
+last_modified_at: 2020-06-27 20:25:00 +0900
 header:
   teaser: /assets/img/my-puzzles-header.png
 categories:
@@ -24,16 +25,20 @@ permalink: /my-puzzles
 - [GAN354 M Stickerless](https://store.tribox.com/products/detail.php?product_id=2388)
 - [GAN356 X (IPG v5) - Stickerless (Bright)](https://store.tribox.com/products/detail.php?product_id=2809)
 - [GAN356 XS Stickerless](https://store.tribox.com/products/detail.php?product_id=2809) <span class="btn btn-primary">開眼メイン</span>
+- [GAN MonsterGO 356 M Stickerless](https://store.tribox.com/products/detail.php?product_id=2979)
+- [GAN330 Keychain](https://store.tribox.com/products/detail.php?product_id=2937)
 
 #### MoYu
-- [MoYu Cubing Classroom 3x3x3 Keychain 3.0cm Stickerless](https://store.tribox.com/products/detail.php?product_id=2171)
+- [MoYu Cubing Classroom 3x3x3 Keychain 3.0cm Stickerless](https://store.tribox.com/products/detail.php?product_id=2171) x3
 - [MoYu Cubing Classroom MF3RS3M](https://store.tribox.com/products/detail.php?product_id=2605)
 - [MoYu Cubing Classroom MF3RS3M Stickerless](https://store.tribox.com/products/detail.php?product_id=2606)
 - [MoYu Cubing Classroom MF3RS2](https://store.tribox.com/products/detail.php?product_id=2164) x3
 - [Cubing Classroom MeiLong 3x3x3](https://store.tribox.com/products/detail.php?product_id=2650) x2
 - [MoYu GuoGuan YueXiao EDM](https://store.tribox.com/products/detail.php?product_id=2694)
-- [MoYu WeiLong GTS3 M - Stickerless (Bright)]()
-
+- [MoYu WeiLong GTS3 M - Stickerless (Bright)](https://store.tribox.com/products/detail.php?product_id=2365)
+- [Cubing Classroom MeiLong 3x3x3 M Stickerless](https://store.tribox.com/products/detail.php?product_id=2992)
+- [Cubing Classroom MF3RS3 M 2020 Stickerless](https://store.tribox.com/products/detail.php?product_id=2994)
+  
 #### QiYi
 - [QiYi QiHang 3x3x3](https://store.tribox.com/products/detail.php?product_id=1671) ホワイト
 - [QiYi Valk 3 Power M](https://store.tribox.com/products/detail.php?product_id=2217) ブラック
@@ -97,6 +102,9 @@ permalink: /my-puzzles
 - [Cubing Classroom Unequal Cube Stickerless](https://store.tribox.com/products/detail.php?product_id=2406)
 - [QiYi 3x3x2 Stickerless](https://store.tribox.com/products/detail.php?product_id=2858)
 - [QiYi 2x2x3 Stickerless](https://store.tribox.com/products/detail.php?product_id=2859)
+- [FANXIN Building Blocks Cube](https://store.tribox.com/products/detail.php?product_id=2995)
 
 ## タイマー
-- [StackMat Pro Timer Gen4](https://store.tribox.com/products/detail.php?product_id=1762) 
+- [StackMat Pro Timer Gen4](https://store.tribox.com/products/detail.php?product_id=1762)
+- [YJ Timer](https://store.tribox.com/products/detail.php?product_id=2966)
+- [YJ Pocket Timer](https://store.tribox.com/products/detail.php?product_id=2967)
