@@ -2,9 +2,9 @@
 title: 3x3x3OH PLLガイド
 excerpt: PianoCube93氏による3x3x3片手競技(OH)のためのPLLガイドです。
 description: PianoCube93氏による3x3x3片手競技(OH)のためのPLLガイドです。
-date: 2020-06-27 20:50:00 +0900
 header:
-  teaser: 
+  teaser: /assets/img/oh-pll-guide-header.png
+date: 2020-06-27 20:50:00 +0900
 categories:
   - PDF
 tags:
