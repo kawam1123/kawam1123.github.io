@@ -14,6 +14,7 @@ classes: wide
 author_profile: true
 sidebar: true
 permalink: /full-oh-pll-guide
+publish: true
 ---
 
 [Full OH PLL Guide from PianoCube93](https://kawam1123.github.io/one-handed/Full%20OH%20PLL%20Guide%20from%20PianoCube93.pdf)
