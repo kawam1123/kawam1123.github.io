@@ -14,5 +14,5 @@ classes: wide
 author_profile: true
 sidebar: true
 permalink: /full-oh-pll-guide
-
+publish: false
 ---
