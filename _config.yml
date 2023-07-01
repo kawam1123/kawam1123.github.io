@@ -126,7 +126,7 @@ tag_archive:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-141207758-2"
+    tracking_id: "G-YXRPBERF0N"
     anonymize_ip: false # default
 
 og_image: /assets/img/icon.jpg
